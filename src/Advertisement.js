@@ -1,4 +1,4 @@
-import './Advertisement.js';
+import './Advertisement.css';
 import React from 'react';
 
 function Advertisement() {
